@@ -46,6 +46,6 @@
 <p align="center">
 
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solp22&theme=bear&hide_border=true&bg_color=00000000&include_all_commits=false&count_private=false&layout=compact" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=solp22&theme=bear&hide_border=true&background=00000000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakansha734&theme=bear&hide_border=true&bg_color=00000000&include_all_commits=false&count_private=false&layout=compact" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakansha734&theme=bear&hide_border=true&background=00000000" />
 </p>
